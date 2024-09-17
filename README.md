@@ -1,4 +1,6 @@
-## Hi there 👋
+![Portada](https://github.com/Ibeht-TT/Ibeht-TT/blob/main/portada%20G.jpg)
+## Hola, mi nombre es Ibeht 👋
+### Freelance full-stack
 
 <!--
 **Ibeht-TT/Ibeht-TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
